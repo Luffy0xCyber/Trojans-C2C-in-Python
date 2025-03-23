@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# PyCharm project files
+.idea/
+
+# VS Code (optional)
+.vscode/
+
+# Logs and temp files
+*.log
+session_log.txt
+
+# PyInstaller build folders
+*.spec
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# pytest
+.pytest_cache/
+
+# Environment variables
+.env
