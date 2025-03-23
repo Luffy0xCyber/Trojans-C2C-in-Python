@@ -5,8 +5,8 @@
 ## Description
 I've decided to create a simple Python Trojan as a learning exercise. 
 It's a basic Command & Control (C2) system with a client-server architecture.
-I will improve it over time.
----
+*I will improve it over time*.
+
 A lightweight Command & Control system in Python featuring:
 - Remote shell execution
 - Directory navigation with persistent working directory
